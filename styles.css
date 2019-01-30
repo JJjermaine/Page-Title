@@ -1,0 +1,60 @@
+.jahcoin {
+    width: 25%;
+}
+
+.video {
+    width: 50%;
+}
+.title {
+    display: flex;
+    justify-content: center;
+}
+.button {
+    display: flex;
+    justify-content: center;
+}
+button {
+    width: 125px;
+    height : 75px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+    margin: 50px;
+    border: solid black 10px;
+    
+}
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    margin: 50px;
+    border: solid black 10px;
+}
+iframe {
+    height: 500px;
+    width: 500px;
+}
+body {
+    background-color: green;
+}
+h2 {
+    font-size: 50px;
+}
+h1 {
+    font-size: 40px;
+    width: 25%;
+}
+.jah1 {
+    width: 33.3%;
+    height: 450px;
+}
+.jah2 {
+    width: 33.3%;
+    height: 450px;
+}
+.jah3 {
+    width: 33.3%;
+    height: 450px;
+}
